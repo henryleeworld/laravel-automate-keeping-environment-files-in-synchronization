@@ -1,4 +1,4 @@
-# Laravel 9 自動保持環境檔案同步
+# Laravel 10 自動保持環境檔案同步
 
 引入 worksome 的 envy 套件來擴增自動保持環境檔案同步，您有多少次將新開發人員加入您的團隊，卻因為您專案的 .env.example 檔案已經過時而不得不花費很長時間與他們一起除錯？如果您和我們一樣的話，數不勝數。如果有辦法確保您的環境檔案保持最新，那不是很好嗎？。
 
@@ -28,5 +28,5 @@ $ php artisan envy:prune
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/UGCs5TT.png)
+![](https://i.imgur.com/SKCY1th.png)
 > 可以將環境檔案與設定檔保持同步
